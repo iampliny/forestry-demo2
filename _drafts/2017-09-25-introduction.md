@@ -19,20 +19,20 @@ This site allows you to explore Forestry's features and functionality, and is **
 Thank you for choosing to demo Forestry!
 
 ```
-/* Uncomment/comment the following two rules in order to
-   enable/disable camel caps + small caps.
-   Usually done in conjunction with enabling/disabling uppercasing
-   in the project's font template JSON */
+  /* Uncomment/comment the following two rules in order to
+  enable/disable camel caps + small caps.
+  Usually done in conjunction with enabling/disabling uppercasing
+  in the project's font template JSON */
 
-/*
-.-name .normal {
+  /*
+  .-name .normal {
   display: none;
-}
+  }
 
-.-name .camel-caps {
+  .-name .camel-caps {
   display: inherit;
   text-transform: none;
   font-variant: small-caps;
-}
-*/
-```
+  }
+  */
+ ```
