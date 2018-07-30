@@ -1,0 +1,11 @@
+---
+label: Alan Smithee Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
