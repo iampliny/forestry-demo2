@@ -18,7 +18,7 @@ This site allows you to explore Forestry's features and functionality, and is **
 
 Thank you for choosing to demo Forestry!
 
-```
+```json
   /* Uncomment/comment the following two rules in order to
   enable/disable camel caps + small caps.
   Usually done in conjunction with enabling/disabling uppercasing
